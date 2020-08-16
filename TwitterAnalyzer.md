@@ -1,7 +1,6 @@
-# 6350
-README
 
-1. Twitter Analyzer
+README
+Twitter Analyzer
 Please make sure the environment is set.
 ref: 
 1. java : jdk-8-64bit
